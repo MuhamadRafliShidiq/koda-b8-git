@@ -8,4 +8,5 @@ export default defineConfig([
       "indent": ["error", 2],
       "semi": ["error", "always"],
     } },
+  { files: ["**/*.js"], languageOptions: { sourceType: "commonjs" } },
 ]);
