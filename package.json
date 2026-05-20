@@ -1,0 +1,17 @@
+{
+  "name": "calc-interactive",
+  "version": "1.0.0",
+  "description": "This is a calculator CLI",
+  "keywords": [
+    "calc",
+    "math",
+    "js"
+  ],
+  "license": "MIT",
+  "author": "fulsep",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
