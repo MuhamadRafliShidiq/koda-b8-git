@@ -1,4 +1,4 @@
-const { multiply, divide, sum, modulo } = require("./src/utils/calc.js");
+const { multiply, divide, sum, modulo, substract } = require("./src/utils/calc.js");
 
 
 const resultMultiply = multiply(10,5);
